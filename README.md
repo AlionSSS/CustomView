@@ -16,6 +16,14 @@
 
 本项目基于黑马Android项目-自定义控件，采用-Android studio-进行逐步开发，做了部分修改，并加注了详细标注，方便了部分**Android Studio初学者**的学习与使用。
 
+##屏幕截图
+
+![image](https://github.com/AlionSSS/CustomView/blob/master/Screenshot_2016-11-07-20-51-02_com.example.origin.png)
+![image](https://github.com/AlionSSS/CustomView/blob/master/Screenshot_2016-11-07-20-51-10_com.example.origin.png)
+![image](https://github.com/AlionSSS/CustomView/blob/master/Screenshot_2016-11-07-20-51-18_com.example.origin.png)
+![image](https://github.com/AlionSSS/CustomView/blob/master/Screenshot_2016-11-07-20-51-25_com.example.origin.png)
+![image](https://github.com/AlionSSS/CustomView/blob/master/Screenshot_2016-11-07-20-51-40_com.example.origin.png)
+
 ##build.gradle
 	apply plugin: 'com.android.application'
 	
